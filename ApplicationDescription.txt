@@ -1,0 +1,2 @@
+﻿This application uses Mediator design pattern which makes our code loosely coupled 
+and CQRS design pattern in which I am distinguish Command and Query Requests.
